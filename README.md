@@ -1,4 +1,7 @@
 ### Hi there 👋, these are my repositories and my personal work as a data scientist.
+  - Deep Learning
+  - Web Scrapping
+  - Statistical models
 
 <!--
 **MatheusCBAndrade/MatheusCBAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
